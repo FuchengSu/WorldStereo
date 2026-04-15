@@ -1,0 +1,30 @@
+{
+    "short caption": "Tropical coastline at sunset",
+    "medium caption": "A tropical coastline scene at sunset with waves crashing against rocks.  A palm tree and lush green vegetation are in the foreground.  The sky displays a gradient of orange, yellow, and blue.  A small island is visible in the distance.  The ocean is a deep blue.  The rocks are brown and gray.  The foliage includes leaves and vines.",
+    "long caption": "A vibrant sunset paints the sky in hues of orange and yellow over a tranquil blue ocean.  White waves crash against a rocky shoreline, creating a dynamic contrast.  Lush green foliage, including a palm tree and leafy vines, frames the right side of the image, partially obscuring a rocky outcrop.  The foreground features large, textured rocks, some partially submerged by the incoming waves.  A small, verdant island is visible in the distance, silhouetted against the setting sun.  The overall scene evokes a sense of peace and tropical beauty.  The sky is a blend of blues and yellows, with wispy clouds adding texture to the backdrop.  The leaves of a tree in the upper left corner frame the top of the image.",
+    "response": {
+        "code": 200,
+        "data": [
+            {
+                "cv_caption": {
+                    "code": 200,
+                    "value": {
+                        "IP": "None",
+                        "atmosphere": "Peaceful",
+                        "background": "The background features a sunset sky over a calm ocean with a small island.",
+                        "composition": "None",
+                        "light": "The scene is illuminated by the warm, setting sun.",
+                        "long_caption": "A vibrant sunset paints the sky in hues of orange and yellow over a tranquil blue ocean.  White waves crash against a rocky shoreline, creating a dynamic contrast.  Lush green foliage, including a palm tree and leafy vines, frames the right side of the image, partially obscuring a rocky outcrop.  The foreground features large, textured rocks, some partially submerged by the incoming waves.  A small, verdant island is visible in the distance, silhouetted against the setting sun.  The overall scene evokes a sense of peace and tropical beauty.  The sky is a blend of blues and yellows, with wispy clouds adding texture to the backdrop.  The leaves of a tree in the upper left corner frame the top of the image.",
+                        "medium_caption": "A tropical coastline scene at sunset with waves crashing against rocks.  A palm tree and lush green vegetation are in the foreground.  The sky displays a gradient of orange, yellow, and blue.  A small island is visible in the distance.  The ocean is a deep blue.  The rocks are brown and gray.  The foliage includes leaves and vines.",
+                        "short_caption": "Tropical coastline at sunset",
+                        "shot_type": "Long shot",
+                        "style": "Anime style"
+                    },
+                    "version": "cv-caption-camera-fusion-router_d20250301_r20250301"
+                }
+            }
+        ],
+        "message": "success",
+        "request_id": "request_test"
+    }
+}

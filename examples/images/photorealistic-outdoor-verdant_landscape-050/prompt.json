@@ -1,0 +1,30 @@
+{
+    "short caption": "Rocky foreground, grassy field, and forested mountains under a blue sky.",
+    "medium caption": "Large gray rocks dominate the foreground.  A grassy field stretches towards a forested mountain.  The field contains patches of yellow vegetation.  The forest consists of evergreen trees. The sky is clear and blue.  The scene is brightly lit by sunlight.  Some small shrubs are visible on the rocks.",
+    "long caption": "A rocky foreground dominates the lower left, composed of large, light gray boulders with patches of green vegetation.  Beyond the rocks, a vibrant field of yellow-green grass stretches towards a backdrop of evergreen trees.  The trees form a dense line across the middle ground, leading up to a rocky, tree-covered hillside under a clear blue sky.  Patches of golden yellow vegetation are interspersed within the grassy field, particularly to the right. The lighting suggests a sunny day, casting shadows across the field and highlighting the textures of the rocks and grass. The overall scene evokes a sense of tranquility and natural beauty.",
+    "response": {
+        "code": 200,
+        "data": [
+            {
+                "cv_caption": {
+                    "code": 200,
+                    "value": {
+                        "IP": "None",
+                        "atmosphere": "Peaceful",
+                        "background": "Forested mountains rise behind a grassy field.",
+                        "composition": "None",
+                        "light": "The scene is brightly lit by natural sunlight.",
+                        "long_caption": "A rocky foreground dominates the lower left, composed of large, light gray boulders with patches of green vegetation.  Beyond the rocks, a vibrant field of yellow-green grass stretches towards a backdrop of evergreen trees.  The trees form a dense line across the middle ground, leading up to a rocky, tree-covered hillside under a clear blue sky.  Patches of golden yellow vegetation are interspersed within the grassy field, particularly to the right. The lighting suggests a sunny day, casting shadows across the field and highlighting the textures of the rocks and grass. The overall scene evokes a sense of tranquility and natural beauty.",
+                        "medium_caption": "Large gray rocks dominate the foreground.  A grassy field stretches towards a forested mountain.  The field contains patches of yellow vegetation.  The forest consists of evergreen trees. The sky is clear and blue.  The scene is brightly lit by sunlight.  Some small shrubs are visible on the rocks.",
+                        "short_caption": "Rocky foreground, grassy field, and forested mountains under a blue sky.",
+                        "shot_type": "Long shot",
+                        "style": "Realistic Photography Style"
+                    },
+                    "version": "cv-caption-camera-fusion-router_d20250301_r20250301"
+                }
+            }
+        ],
+        "message": "success",
+        "request_id": "request_test"
+    }
+}

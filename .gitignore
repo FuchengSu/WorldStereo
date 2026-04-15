@@ -1,0 +1,8 @@
+.idea/
+__pycache__/
+./debug
+./scripts
+./outputs
+./third_party
+.codebuddy
+.CLAUDE.md
