@@ -34,6 +34,7 @@
 
 - `[2026.03]` 📄 Paper is now available on arXiv: [https://arxiv.org/abs/2602.24233](https://arxiv.org/abs/2602.24233)
 - `[2026.04]` 🚀 Code and model weights of WorldStereo 2.0 are now released!
+- `[2026.04]` 🚀 HY-World 2.0 are now released: [https://github.com/Tencent-Hunyuan/HY-World-2.0](https://github.com/Tencent-Hunyuan/HY-World-2.0) !
 
 ---
 
